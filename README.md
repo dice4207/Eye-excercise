@@ -1,3 +1,3 @@
 # Eye-excercise.io
-## Eye Excice
+## Eye Excercice
 <img src="oneeye.png" width='300'/>
