@@ -1,0 +1,12 @@
+{
+  "name": "eye-excercise",
+  "version": "1.0.0",
+  "description": "<img src= \"oneeye.png\" width='300'/>",
+  "main": "eyes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
