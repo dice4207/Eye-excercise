@@ -14,7 +14,7 @@ body {
 .eye {
   width: 240px;
   height: 120px;
-  background: #c01010;
+  background: #f5c9c9;
   display: inline-block;
   margin: 40px;
   border-radius: 50%;
@@ -26,8 +26,8 @@ body {
   height: 70px;
   background: #000000;
   position: absolute;
-  top: 30%;
-  left: 30%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
